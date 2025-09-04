@@ -1,17 +1,24 @@
-# Hospital Supply Chain Readiness Dashboard (Power BI)
+# 🏥 Hospital Supply Chain Dashboard
 
-**Dataset:** CMS Hospital General Information  
-**Goal:** Benchmark hospital capacity and readiness to inform supply chain prioritization.
+This Power BI dashboard analyzes U.S. hospital data (CMS) to provide insight into capacity, readiness, and regional coverage.
 
-**KPIs**
-- Total hospitals and distribution by **Type** and **Ownership**
-- **% with Emergency Services**
-- Regional view by **State** with counts and filters
-- **Rating distribution** as a quality proxy
+## 📊 Features
+- **Overview Page**: Total hospitals, average rating, ownership breakdown, hospital types.
+- **Regional Analysis**: State-by-state counts, slicers, and comparisons of facility distribution.
+- **Readiness Metrics**: Emergency service availability and quality measures.
+- **Interactive Filters**: Drill down by state, type, and ownership.
 
-**Pages**
-1. Overview – totals, ownership mix, hospitals by type
-2. Regional Capacity – state map + hospitals per state
-3. Readiness & Quality – % emergency-ready + ratings distribution
+## 📷 Dashboard Previews
+### Overview
+![Overview](screenshots/overview.png)
 
-*Built in Power BI by Sage Cain (2025).*
+### Regional Analysis
+![Regional](screenshots/regional.png)
+
+### Readiness
+![Readiness](screenshots/readiness.png)
+
+---
+
+📂 Dataset: [CMS Hospital General Information](https://data.cms.gov/provider-data/dataset/xubh-q36u)  
+📌 Built in **Power BI Desktop** | Author: *Sage Cain*
