@@ -10,13 +10,13 @@ This Power BI dashboard analyzes U.S. hospital data (CMS) to provide insight int
 
 ## 📷 Dashboard Previews
 ### Overview
-![Overview](screenshots/overview.png)
+![Overview](screenshots/overview.PNG)
 
 ### Regional Analysis
-![Regional](screenshots/regional.png)
+![Regional](screenshots/regional.PNG)
 
 ### Readiness
-![Readiness](screenshots/readiness.png)
+![Readiness](screenshots/readiness.PNG)
 
 ---
 
